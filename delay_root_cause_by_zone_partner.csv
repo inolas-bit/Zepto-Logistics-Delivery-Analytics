@@ -1,0 +1,16 @@
+Delivery_Zone,Partner_Type,is_delayed
+Central,Cycle,1.0
+Central,Rider,1.0
+Central,Walker,1.0
+East,Cycle,1.0
+East,Rider,1.0
+East,Walker,1.0
+North,Cycle,1.0
+North,Rider,1.0
+North,Walker,1.0
+South,Cycle,1.0
+South,Rider,1.0
+South,Walker,1.0
+West,Cycle,1.0
+West,Rider,1.0
+West,Walker,1.0
